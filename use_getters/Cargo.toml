@@ -1,0 +1,7 @@
+[package]
+name = "use_getters"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cs453getters = { path = "../cs453getters" }
